@@ -7,6 +7,10 @@
 ## 作業繳交區
 ### HW1
 ### HW2
+
+(1)成果影片
+https://youtu.be/gkp_M96XSqE
+
 ### HW3
 ### HW4
 ### HW5
