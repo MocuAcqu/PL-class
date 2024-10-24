@@ -6,7 +6,7 @@
 
 # 作業繳交區
 ## unity作業成果
-[程式展示](https://github.com/MocuAcqu/NTNU_PL_0926_homework)
+[作業展示](https://github.com/MocuAcqu/NTNU_PL_0926_homework)
 
 ## HW1
 
@@ -18,7 +18,7 @@
 
 [成果影片](https://youtu.be/gkp_M96XSqE)
 
-本次作業讓我們加入角色素材，進行角色設定，並結合動畫控制器，影片呈現了我創建的一個角色，並且連接五個動畫，成功呼叫的成果。
+本次作業讓我們安裝URP、加入角色素材，進行角色設定，並結合動畫控制器，影片呈現了我創建的一個角色，並且連接五個動畫，成功呼叫的成果。
 
 ## HW3
 ## HW4
