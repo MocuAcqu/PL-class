@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1CVwlXwwnlaZvRfEUGnFwszrKWjIFIdE8/view?usp=shari
 
 (1)成果影片
 
-本次作業讓我們加入角色素材，進行角色設定，並結合動畫控制器，影片呈現了123
+本次作業讓我們加入角色素材，進行角色設定，並結合動畫控制器，影片呈現了
 https://youtu.be/gkp_M96XSqE
 
 ### HW3
