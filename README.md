@@ -11,7 +11,9 @@
 
 ## HW1
 
-[成果照片](https://drive.google.com/file/d/1CVwlXwwnlaZvRfEUGnFwszrKWjIFIdE8/view?usp=sharing)
+| [成果照片](https://drive.google.com/file/d/1CVwlXwwnlaZvRfEUGnFwszrKWjIFIdE8/view?usp=sharing) | ![image](第一次作業.png) |
+|--|--|
+
 
 本次作業讓我們在unity上建立專案，並嘗試去抓場景素材、套上材質，設計一個自己的場景介面並截圖。
 
@@ -23,7 +25,8 @@
 
 ## HW3
 
-[成果照片](https://drive.google.com/file/d/1UHg8L2vZCrx2vsOUCPoIdFJdK8U9IY0A/view?usp=sharing)
+| [成果照片](https://drive.google.com/file/d/1UHg8L2vZCrx2vsOUCPoIdFJdK8U9IY0A/view?usp=sharing) | ![image](第三次作業.png) |
+|--|--|
 
 本次作業在讓我們進行遊戲介面與Hugging face API的串接設定，截圖展現了基於作業二的場景、角色、動畫設定，新增了文字輸入欄位介面、添加字體、建立NPC資料、建立NPC控制器。
 
