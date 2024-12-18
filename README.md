@@ -6,9 +6,8 @@
 
 # 作業繳交區
 ## unity作業成果
-[作業展示](https://github.com/MocuAcqu/NTNU_PL_0926_homework)
-
-此為本次作業的unity資料與程式碼。
+| [作業展示](https://github.com/MocuAcqu/NTNU_PL_0926_homework) | 此為本次作業的unity資料與程式碼。 |
+|--|--|
 
 ## HW1
 
