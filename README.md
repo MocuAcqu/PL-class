@@ -28,8 +28,11 @@
 
 本次作業在讓我們進行遊戲介面與Hugging face API的串接設定，截圖展現了基於作業二的場景、角色、動畫設定，新增了文字輸入欄位介面、添加字體、建立NPC資料、建立NPC控制器。
 
-
-## HW4
-## HW5
-
 ## 專題繳交區
+### 成果展示
+| [程式碼](https://github.com/MocuAcqu/NTNU_PL_Library) | [解說影片](https://youtu.be/Xl6CxgXtN0w) |
+ |--|--|
+
+### 圖片展示
+ | ![image](莫奇1.png) | ![image](莫奇2.png) | ![image](互動說明.png) |
+ |--|--|--|
